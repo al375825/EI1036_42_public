@@ -13,7 +13,6 @@
 
 $nombre = "Ana";
 
-
 if (isset($argv[1])) {
     $nombre = $argv[1];
 }
