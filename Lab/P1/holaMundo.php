@@ -9,9 +9,6 @@
  * * @copyright 2017 Lola
  * * @license http://www.fsf.org/licensing/licenses/gpl.txt GPL 2 or later
  * * @version 1
- * *
- * *
- * *
  * */
 
 $nombre = "Ana";
