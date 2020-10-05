@@ -1,0 +1,43 @@
+RESPUESTAS FORMULARIO PRÁCTICA 1
+
+Ejercico 1
+Consola:
+<p>Hola, Ana</P>
+Navegador:
+Hola, Ana
+
+FIN
+
+Ejercicio 2 
+PHP 7.4.3
+php -v
+PHP 7.4.3 (cli) (built: May 26 2020 12:24:22) ( NTS )
+Copyright (c) The PHP Group
+Zend Engine v3.4.0, Copyright (c) Zend Technologies
+    with Zend OPcache v7.4.3, Copyright (c), by Zend Technologies
+
+
+Ejercicio 3 
+al375825@aula1014act:~/EI1036_42/Lab/P1$ php -S localhost:8080
+[Mon Sep 28 15:39:30 2020] PHP 7.4.3 Development Server (http://localhost:8080) started
+[Mon Sep 28 15:39:34 2020] 127.0.0.1:57052 Accepted
+[Mon Sep 28 15:39:34 2020] 127.0.0.1:57052 [200]: GET /holaMundo.php
+[Mon Sep 28 15:39:34 2020] 127.0.0.1:57052 Closing
+[Mon Sep 28 15:39:34 2020] 127.0.0.1:57054 Accepted
+[Mon Sep 28 15:39:34 2020] 127.0.0.1:57054 [404]: GET /favicon.ico - No such file or directory
+[Mon Sep 28 15:39:34 2020] 127.0.0.1:57054 Closing
+
+Ejercicio 4
+Primer servidor:
+Versión: PHP 7.2.31
+Este es un servidor Apache 2.0 Handler
+La PHP API es 20170718
+Montado en junio de 2020
+
+Segundo servidor:
+Versión: PHP 7.4.3
+Este usa de server un Built-in HTTP server 
+La PHP API es 20190902 
+Montado en mayo de 2020
+
+
