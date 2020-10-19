@@ -5,7 +5,7 @@
 		<legend>Datos básicos</legend>
 		<label for="nombre">Nombre</label>
 		<br/>
-		<input type="text" name="userName" class="item_requerid" size="20" maxlength="50" value="<?php print $userName ?>"
+		<input type="text" name="name" class="item_requerid" size="20" maxlength="50" value="<?php print $userName ?>"
 		 placeholder="Introduce tu nombre" />
 		<br/>
 		<label for="surname">Apellidos</label>
@@ -23,7 +23,7 @@
 		<input type="text" name="city" size="20" maxlength="50" value="<?php print $city?>"
 		 placeholder="Introduce tu ciudad" />
 		<br/>
-		<label for="zip_code">Dirección</label>
+		<label for="zip_code">CP</label>
 		<br/>
 		<input type="text" name="zip_code" size="20" maxlength="5" value="<?php print $zip_code?>"
 		 placeholder="Introduce tu código postal" />

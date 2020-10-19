@@ -8,7 +8,7 @@ function handler($pdo,$table)
         $data["error"] = "No has rellenado el formulario correctamente";
         return;
     }
-    $query = "INSERT INTO     $table (nombre, email,clave)
+    $query = "INSERT INTO     $table (nombre, apellidos,clave)
                         VALUES (?,?,?)";
                        
     echo $query;

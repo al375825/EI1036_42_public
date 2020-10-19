@@ -1,7 +1,7 @@
 <?php
 
 /** The name of the database  */
-define('DB_NAME', 'al375825_EI1036_42');
+define('DB_NAME', 'al375825_ei1036_42');
 
 /** Fatabase username */
 define('DB_USER', 'al375825');
